@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\222003506 Emre Erken Döviz Kuru\DovizKuru\DovizKuru\bin\Debug\DovizKuru.exe.config
+C:\Users\Admin\Desktop\222003506 Emre Erken Döviz Kuru\DovizKuru\DovizKuru\bin\Debug\DovizKuru.exe
+C:\Users\Admin\Desktop\222003506 Emre Erken Döviz Kuru\DovizKuru\DovizKuru\bin\Debug\DovizKuru.pdb
+C:\Users\Admin\Desktop\222003506 Emre Erken Döviz Kuru\DovizKuru\DovizKuru\obj\Debug\DovizKuru.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\222003506 Emre Erken Döviz Kuru\DovizKuru\DovizKuru\obj\Debug\DovizKuru.Form1.resources
+C:\Users\Admin\Desktop\222003506 Emre Erken Döviz Kuru\DovizKuru\DovizKuru\obj\Debug\DovizKuru.Properties.Resources.resources
+C:\Users\Admin\Desktop\222003506 Emre Erken Döviz Kuru\DovizKuru\DovizKuru\obj\Debug\DovizKuru.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\222003506 Emre Erken Döviz Kuru\DovizKuru\DovizKuru\obj\Debug\DovizKuru.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\222003506 Emre Erken Döviz Kuru\DovizKuru\DovizKuru\obj\Debug\DovizKuru.exe
+C:\Users\Admin\Desktop\222003506 Emre Erken Döviz Kuru\DovizKuru\DovizKuru\obj\Debug\DovizKuru.pdb
